@@ -1,0 +1,2 @@
+# Kodok-Jemping
+ini kodok
